@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')({sigint: true});
-const angka = prompt('Input angka: ');
+const angka = prompt('Input Bilangan: ');
 
 if(angka <= 0){
     console.log("Tidak bisa input bilangan negatif")
