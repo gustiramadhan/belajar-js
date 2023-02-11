@@ -7,5 +7,4 @@ JavaScript - M Gusti Ramadhan
 
 2. soal2.js adalah program untuk mengecek total quantity dari bebarapa storageId untuk productCode FBR00040101 (FloBrand-DressBSPink) dengan menggunakan metode Pengulangan, Array dan Object keys
 
-link video running program
-https://drive.google.com/file/d/1TkFso-_VIOBg4h7-gcOja-MtW7qOhTeT/view?usp=sharing
+[link video running program](Https://drive.google.com/file/d/1TkFso-_VIOBg4h7-gcOja-MtW7qOhTeT/view?usp=sharing)
