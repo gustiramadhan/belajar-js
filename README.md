@@ -7,4 +7,4 @@
 
 2. (soal2.js) is a program to check the total quantity of several storageIds for productCode FBR00040101 (FloBrand-DressBSPink) using the Repetition, Array and Object keys methods
 
-[Link to execution recording](Https://drive.google.com/file/d/1TkFso-_VIOBg4h7-gcOja-MtW7qOhTeT/view?usp=sharing)
+[Link to execution recording](Https://drive.google.com/file/d/1TkFso-_VIOBg4h7-gcOja-MtW7qOhTeT/view?usp=sharing).
